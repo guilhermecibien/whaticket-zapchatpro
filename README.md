@@ -44,6 +44,8 @@ Apenas criar e testar.
 ✔ Agendamento de mensagens  
 ✔ Sistema de tags  
 ✔ Controle de usuários e permissões  
+✔ FlowBuilder (criação de fluxos automatizados)  
+✔ Atendimento com IA integrado  
 ✔ Interface moderna e responsiva  
 ✔ Modo claro e escuro  
 
@@ -78,6 +80,22 @@ Organize conversas por status e tenha controle total da operação.
 Crie atalhos personalizados para acelerar o atendimento e aumentar a eficiência.
 
 ![Respostas Rápidas](screenshots/04-respostas.png)
+
+---
+
+## 🔄 FlowBuilder – Automação Visual
+
+Crie fluxos automatizados de atendimento com construtor visual intuitivo.
+
+![FlowBuilder](screenshots/06-flowbuilder.png)
+
+---
+
+## 🤖 Atendimento com IA
+
+Automatize respostas e otimize o tempo da equipe com inteligência artificial integrada.
+
+![Atendimento com IA](screenshots/07-ia.png)
 
 ---
 
