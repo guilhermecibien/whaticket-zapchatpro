@@ -1,6 +1,6 @@
 # 🚀 ZapChatPro – Sistema WhiteLabel de Atendimento via WhatsApp
 
-O **ZapChatPro** é um sistema completo de atendimento multiusuário via WhatsApp, desenvolvido para empresas que desejam vender ou utilizar uma solução profissional com sua própria marca.
+Sistema baseado em Whaticket para atendimento via WhatsApp, ideal para quem deseja vender WhiteLabel ou criar um SaaS próprio.
 
 ⚠️ Este repositório é apenas uma vitrine demonstrativa.  
 O código-fonte completo é disponibilizado exclusivamente após a aquisição da licença.
